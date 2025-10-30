@@ -2,6 +2,8 @@
   "api_base_url": "https://happy-feet-1-2my5.onrender.com",
   "status": "Activated",
   "devices": {
-  
+    "123082a6-1302-4307-a608-d60ee79773de": {
+      "version": 1
+    }
   }
 }
