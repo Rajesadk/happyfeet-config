@@ -1,6 +1,11 @@
 {
   "api_base_url": "https://happy-feet.onrender.com",
   "status": "Activated",
+  "sellers": [
+    "Robin",
+    "Suraj",
+    "Vivake"
+  ],
   "devices": {
     "123082a6-1302-4307-a608-d60ee79773de": {
       "version": 2
