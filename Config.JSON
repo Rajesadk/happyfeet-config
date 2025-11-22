@@ -1,5 +1,6 @@
 {
   "api_base_url": "https://happy-feet.onrender.com",
+  "luggage_permission": "Safari",
   "status": "Activated",
   "sellers": [
     "Robin",
@@ -49,5 +50,5 @@
     "9711830d-99f2-4c80-b556-f12276b85ea9": {
       "version": 1
     }
-  }
+  },
 }
