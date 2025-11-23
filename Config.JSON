@@ -1,13 +1,21 @@
 {
   "api_base_url": "https://happy-feet.onrender.com",
   "luggage_permission": [
-  "Safari"
+    "Safari"
   ],
   "status": "Activated",
   "sellers": [
     "Robin",
     "Suraj",
     "Vivake"
+  ],
+  "shop_list": [
+    "Zone 1",
+    "Novotel",
+    "3rd Floor",
+    "Underground",
+    "City Slipper",
+    "2nd Floor"
   ],
   "devices": {
     "123082a6-1302-4307-a608-d60ee79773de": {
