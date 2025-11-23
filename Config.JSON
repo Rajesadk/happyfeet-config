@@ -17,6 +17,10 @@
     "City Slipper",
     "2nd Floor"
   ],
+  "charms_shops": [
+    "Charms Novotel",
+    "Charms 4th Floor"
+  ],
   "devices": {
     "123082a6-1302-4307-a608-d60ee79773de": {
       "version": 2
