@@ -2,7 +2,7 @@
   "api_base_url": "https://happy-feet.onrender.com",
   "backup_api": "https://happy-feet.onrender.com",
   "luggage_permission": [
-    "Safari"
+    "Safari","Cityluggage"
   ],
   "status": "Activated",
   "sellers": [
