@@ -1,16 +1,17 @@
 {
   "api_base_url": "https://happy-feet.onrender.com",
   "backup_api": "https://happy-feet-px67.onrender.com",
-  "charms_admin": "Charmsadmin@gmail.com",
-  "node_server": "https://node-server-6h73.onrender.com",
-  "go_server": "https://go-server-fj3b.onrender.com",
-  "backup_node_server": "https://node-server-6h73.onrender.com",
   "backup_go_server": "https://go-server-b821.onrender.com",
+  "backup_node_server": "https://node-server-6h73.onrender.com",
+  "charms_admin": "Charmsadmin@gmail.com",
   "charms_shops": [
     "Charms Novotel",
     "Charms 4th Floor"
   ],
   "devices": {
+    "0299EB17-A5E1-4376-A02B-AD1D3861738A": {
+      "version": 1
+    },
     "09861002-788b-4659-a973-48a910831e40": {
       "version": 1
     },
@@ -38,7 +39,37 @@
     "613e0da9-3993-4f42-a2ed-c9c958ead0de": {
       "version": 13
     },
+    "6DB0D8AE-C356-4177-933B-85C440DDF35E": {
+      "version": 1
+    },
+    "8B65E859-F9BD-456D-AC37-35DDB70844DC": {
+      "version": 1
+    },
+    "8F2BF0E1-24AB-49AB-8F53-133196995628": {
+      "version": 1
+    },
     "9711830d-99f2-4c80-b556-f12276b85ea9": {
+      "version": 1
+    },
+    "AP3A.240617.008": {
+      "version": 1
+    },
+    "AP3A.240905.015.A2": {
+      "version": 1
+    },
+    "AQ3A.240912.001": {
+      "version": 1
+    },
+    "BP2A.250605.031.A3": {
+      "version": 1
+    },
+    "C86C321C-5423-4E24-8E49-371DB10B7E00": {
+      "version": 1
+    },
+    "SP1A.210812.003": {
+      "version": 1
+    },
+    "TP1A.220905.001": {
       "version": 1
     },
     "a405f5b2-c87c-4eba-b311-62c4fdf00c06": {
@@ -52,45 +83,15 @@
     },
     "f565334d-821e-49f7-960b-4a5c6a6cf8f3": {
       "version": 1
-    },
-    "BP2A.250605.031.A3": {
-      "version": 1
-    },
-    "SP1A.210812.003": {
-      "version": 1
-    },
-    "AQ3A.240912.001": {
-      "version": 1
-    },
-    "8F2BF0E1-24AB-49AB-8F53-133196995628": {
-      "version": 1
-    },
-    "6DB0D8AE-C356-4177-933B-85C440DDF35E": {
-      "version": 1
-    },
-    "TP1A.220905.001": {
-      "version": 1
-    },
-    "8B65E859-F9BD-456D-AC37-35DDB70844DC": {
-      "version": 1
-    },
-    "C86C321C-5423-4E24-8E49-371DB10B7E00": {
-      "version": 1
-    },
-    "0299EB17-A5E1-4376-A02B-AD1D3861738A": {
-      "version": 1
-    },
-    "AP3A.240905.015.A2": {
-      "version": 1
-    },
-    "AP3A.240617.008": {
-      "version": 1
     }
   },
+  "go_server": "https://go-server-fj3b.onrender.com",
   "luggage_permission": [
-    "Safari"
+    "Safari",
+    "Cityluggage"
   ],
   "main_admin": "Admin@gmail.com",
+  "node_server": "https://node-server-6h73.onrender.com",
   "sellers": [
     "Robin",
     "Suraj",
