@@ -4,6 +4,8 @@
   "charms_admin": "Charmsadmin@gmail.com",
   "node_server": "https://node-server-6h73.onrender.com",
   "go_server": "https://go-server-b821.onrender.com",
+  "backup_node_server":"https://node-server-6h73.onrender.com",
+  "backup_go_server":"https://go-server-b821.onrender.com",
   "charms_shops": [
     "Charms Novotel",
     "Charms 4th Floor"
