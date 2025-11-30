@@ -2,6 +2,8 @@
   "api_base_url": "https://happy-feet.onrender.com",
   "backup_api": "https://happy-feet.onrender.com",
   "charms_admin": "Charmsadmin@gmail.com",
+  "node_server": "https://node-server-6h73.onrender.com",
+  "go_server": "https://go-server-b821.onrender.com",
   "charms_shops": [
     "Charms Novotel",
     "Charms 4th Floor"
