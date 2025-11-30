@@ -4,8 +4,8 @@
   "charms_admin": "Charmsadmin@gmail.com",
   "node_server": "https://node-server-6h73.onrender.com",
   "go_server": "https://go-server-b821.onrender.com",
-  "backup_node_server":"https://node-server-6h73.onrender.com",
-  "backup_go_server":"https://go-server-b821.onrender.com",
+  "backup_node_server": "https://node-server-6h73.onrender.com",
+  "backup_go_server": "https://go-server-b821.onrender.com",
   "charms_shops": [
     "Charms Novotel",
     "Charms 4th Floor"
@@ -51,6 +51,9 @@
       "version": 1
     },
     "f565334d-821e-49f7-960b-4a5c6a6cf8f3": {
+      "version": 1
+    },
+    "BP2A.250605.031.A3": {
       "version": 1
     }
   },
