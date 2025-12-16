@@ -1,8 +1,8 @@
 {
-  "api_base_url": "https://happy-feet-px67.onrender.com",
-  "backup_api": "https://happy-feet-px67.onrender.com",
-  "backup_go_server": "https://go-server-b821.onrender.com",
-  "backup_node_server": "https://node-server-9rqj.onrender.com",
+  "api_base_url": "https://fetch-server-nkp5.onrender.com",
+  "backup_api": "https://fetch-server-nkp5.onrender.com",
+  "backup_go_server": "https://heavy-processing-server.onrender.com",
+  "backup_node_server": "https://simple-processing-server.onrender.com",
   "charms_admin": "Charmsadmin@gmail.com",
   "charms_shops": [
     "Charms Novotel",
@@ -97,13 +97,13 @@
       "version": 1
     }
   },
-  "go_server": "https://go-server-fj3b.onrender.com",
+  "go_server": "https://heavy-processing-server.onrender.com",
   "luggage_permission": [
     "Safari",
     "Cityluggage"
   ],
   "main_admin": "Admin@gmail.com",
-  "node_server": "https://node-server-9rqj.onrender.com",
+  "node_server": "https://simple-processing-server.onrender.com",
   "sellers": [
     "Robin",
     "Suraj",
