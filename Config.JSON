@@ -1,5 +1,5 @@
 {
-  "api_base_url": "https://happy-feet-as6q.onrender.com",
+  "api_base_url": "https://happy-feet.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
   "backup_go_server": "https://heavy-processing-server.onrender.com",
   "backup_node_server": "https://simple-processing-server.onrender.com",
@@ -130,13 +130,13 @@
       "version": 4
     }
   },
-  "go_server": "https://go-server-yewr.onrender.com",
+  "go_server": "https://go-server-mhla.onrender.com",
   "luggage_permission": [
     "Safari",
     "Cityluggage"
   ],
   "main_admin": "Admin@gmail.com",
-  "node_server": "https://node-server-9nbg.onrender.com",
+  "node_server": "https://node-server-xpw6.onrender.com",
   "sellers": [
     "Robin",
     "Suraj",
