@@ -1,6 +1,13 @@
 {
+  "Narayanadmin@gmail.com": [
+    "Testluggageshop"
+  ],
   "Nunuadmin@gmail.com": [
-    "testslippershop"
+    "testslippershop",
+    "Testluggageshop"
+  ],
+  "Thanaysoreadmin@gmail.com": [
+    "Testluggageshop"
   ],
   "api_base_url": "https://happy-feet-m666.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
