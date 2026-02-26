@@ -1,4 +1,7 @@
 {
+  "Nunuadmin@gmail.com": [
+    "testslippershop"
+  ],
   "api_base_url": "https://happy-feet-m666.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
   "backup_go_server": "https://heavy-processing-server.onrender.com",
@@ -11,6 +14,9 @@
   "devices": {
     "0299EB17-A5E1-4376-A02B-AD1D3861738A": {
       "version": 30
+    },
+    "0385cdce-5e60-492f-9b7f-8f6211f066eb": {
+      "version": 1
     },
     "09861002-788b-4659-a973-48a910831e40": {
       "version": 1
@@ -25,6 +31,9 @@
       "version": 1
     },
     "188ab40c-cf3c-42d7-a9d3-04dba33109d6": {
+      "version": 1
+    },
+    "1cbde5a0-f8d2-4f36-8c5a-e2737b59966a": {
       "version": 1
     },
     "205f3862-3134-4aac-8d46-ddbb464a8a96": {
@@ -42,14 +51,26 @@
     "3a7dbfcf-83c5-4c02-90d9-c0ea0d4bd1eb": {
       "version": 1
     },
+    "419eae8f-3c52-4269-8ccd-15654e1c63f3": {
+      "version": 6
+    },
     "56664128-F567-4159-8759-3AC7F4510166": {
+      "version": 1
+    },
+    "5885d012-a2b1-4a71-be64-5f0c103f4afa": {
       "version": 1
     },
     "613e0da9-3993-4f42-a2ed-c9c958ead0de": {
       "version": 13
     },
+    "6803b7f7-8977-49da-9e20-6abb57f13bb3": {
+      "version": 1
+    },
     "6DB0D8AE-C356-4177-933B-85C440DDF35E": {
       "version": 1
+    },
+    "82f61013-55dc-46da-8952-6439b39f9e3d": {
+      "version": 22
     },
     "8B65E859-F9BD-456D-AC37-35DDB70844DC": {
       "version": 6
@@ -57,8 +78,14 @@
     "8F2BF0E1-24AB-49AB-8F53-133196995628": {
       "version": 1
     },
+    "91d63221-4db0-4dba-9bf9-94a0ecbfb9c7": {
+      "version": 7
+    },
     "9711830d-99f2-4c80-b556-f12276b85ea9": {
       "version": 1
+    },
+    "9deff2f7-2a79-4b94-9960-d786f975ce84": {
+      "version": 2
     },
     "AP3A.240617.008": {
       "version": 1
@@ -84,7 +111,19 @@
     "a405f5b2-c87c-4eba-b311-62c4fdf00c06": {
       "version": 3
     },
+    "aac4933b-0494-4337-bb88-9d062ae4a713": {
+      "version": 5
+    },
+    "c0174bd4-c87f-4476-a7d6-36e0eb6c9bee": {
+      "version": 1
+    },
     "d31f9556-0f86-4cca-ac49-8890a6eb06bc": {
+      "version": 1
+    },
+    "d4d21a7b-f448-455b-9564-a21d20d49786": {
+      "version": 1
+    },
+    "d635bd2d-92f2-4e7f-a957-e1da7759a40d": {
       "version": 1
     },
     "f1e17c3d-c110-4d3f-b0ba-8067bb70b277": {
@@ -93,46 +132,10 @@
     "f565334d-821e-49f7-960b-4a5c6a6cf8f3": {
       "version": 1
     },
-    "f992c880-a295-4c71-87a9-4f6f6f75fed2": {
-      "version": 1
-    },
-    "d635bd2d-92f2-4e7f-a957-e1da7759a40d": {
-      "version": 1
-    },
-    "1cbde5a0-f8d2-4f36-8c5a-e2737b59966a": {
-      "version": 1
-    },
-    "6803b7f7-8977-49da-9e20-6abb57f13bb3": {
-      "version": 1
-    },
-    "d4d21a7b-f448-455b-9564-a21d20d49786": {
-      "version": 1
-    },
-    "9deff2f7-2a79-4b94-9960-d786f975ce84": {
-      "version": 2
-    },
-    "419eae8f-3c52-4269-8ccd-15654e1c63f3": {
-      "version": 6
-    },
-    "91d63221-4db0-4dba-9bf9-94a0ecbfb9c7": {
-      "version": 7
-    },
-    "aac4933b-0494-4337-bb88-9d062ae4a713": {
-      "version": 5
-    },
-    "c0174bd4-c87f-4476-a7d6-36e0eb6c9bee": {
-      "version": 1
-    },
     "f62f56f4-a2f0-4935-b384-bfeb259a2959": {
       "version": 1
     },
-    "82f61013-55dc-46da-8952-6439b39f9e3d": {
-      "version": 22
-    },
-    "5885d012-a2b1-4a71-be64-5f0c103f4afa": {
-      "version": 1
-    },
-    "0385cdce-5e60-492f-9b7f-8f6211f066eb": {
+    "f992c880-a295-4c71-87a9-4f6f6f75fed2": {
       "version": 1
     }
   },
