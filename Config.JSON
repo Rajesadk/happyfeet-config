@@ -149,7 +149,8 @@
   "go_server": "https://go-server-l9sj.onrender.com",
   "luggage_permission": [
     "Safari",
-    "Cityluggage"
+    "Cityluggage",
+    "Testluggageshop"
   ],
   "main_admin": "Admin@gmail.com",
   "node_server": "https://node-server-097d.onrender.com",
