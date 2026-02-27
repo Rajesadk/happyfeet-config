@@ -1,13 +1,26 @@
 {
   "Narayanadmin@gmail.com": [
-    "Testluggageshop"
+    "Safari",
+    "Cityluggage",
+"Charms Novotel",
+    "Charms 4th Floor"
   ],
   "Nunuadmin@gmail.com": [
-    "testslippershop",
-    "Testluggageshop"
+    "Safari",
+    "Cityluggage", 
+    "Zone 1",
+    "Novotel",
+    "3rd Floor",
+    "City Slipper",
+    "1stfloorslipper",
+"Charms Novotel",
+    "Charms 4th Floor"
   ],
   "Thanaysoreadmin@gmail.com": [
-    "Testluggageshop"
+    "Safari",
+    "Cityluggage",
+"Charms Novotel",
+    "Charms 4th Floor"
   ],
   "api_base_url": "https://happy-feet-m666.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
@@ -149,8 +162,7 @@
   "go_server": "https://go-server-l9sj.onrender.com",
   "luggage_permission": [
     "Safari",
-    "Cityluggage",
-    "Testluggageshop"
+    "Cityluggage"
   ],
   "main_admin": "Admin@gmail.com",
   "node_server": "https://node-server-097d.onrender.com",
@@ -164,8 +176,7 @@
     "Novotel",
     "3rd Floor",
     "City Slipper",
-    "1stfloorslipper",
-    "testslippershop"
+    "1stfloorslipper"
   ],
   "status": "Activated"
 }
