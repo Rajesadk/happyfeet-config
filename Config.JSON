@@ -2,24 +2,24 @@
   "Narayanadmin@gmail.com": [
     "Safari",
     "Cityluggage",
-"Charms Novotel",
+    "Charms Novotel",
     "Charms 4th Floor"
   ],
   "Nunuadmin@gmail.com": [
     "Safari",
-    "Cityluggage", 
+    "Cityluggage",
     "Zone 1",
     "Novotel",
     "3rd Floor",
     "City Slipper",
     "1stfloorslipper",
-"Charms Novotel",
+    "Charms Novotel",
     "Charms 4th Floor"
   ],
   "Thanaysoreadmin@gmail.com": [
     "Safari",
     "Cityluggage",
-"Charms Novotel",
+    "Charms Novotel",
     "Charms 4th Floor"
   ],
   "api_base_url": "https://happy-feet-m666.onrender.com",
@@ -178,5 +178,5 @@
     "City Slipper",
     "1stfloorslipper"
   ],
-  "status": "Activated"
+  "status": "Deactivated"
 }
