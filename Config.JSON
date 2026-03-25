@@ -3,7 +3,8 @@
     "Safari",
     "Cityluggage",
     "Charms Novotel",
-    "Charms 4th Floor"
+    "Charms 4th Floor",
+    "6thsnack"
   ],
   "Nunuadmin@gmail.com": [
     "Safari",
@@ -14,13 +15,15 @@
     "City Slipper",
     "1stfloorslipper",
     "Charms Novotel",
-    "Charms 4th Floor"
+    "Charms 4th Floor",
+    "6thsnack"
   ],
   "Thanaysoreadmin@gmail.com": [
     "Safari",
     "Cityluggage",
     "Charms Novotel",
-    "Charms 4th Floor"
+    "Charms 4th Floor",
+    "6thsnack"
   ],
   "api_base_url": "https://happy-feet-d7tz.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
@@ -92,6 +95,9 @@
     "82f61013-55dc-46da-8952-6439b39f9e3d": {
       "version": 25
     },
+    "83c67b21-14ce-4ac4-b9d5-308e9dd0905c": {
+      "version": 1
+    },
     "8B65E859-F9BD-456D-AC37-35DDB70844DC": {
       "version": 6
     },
@@ -137,6 +143,9 @@
     "c0174bd4-c87f-4476-a7d6-36e0eb6c9bee": {
       "version": 1
     },
+    "cdabb68e-87eb-4775-bd03-693316f0b4db": {
+      "version": 1
+    },
     "d31f9556-0f86-4cca-ac49-8890a6eb06bc": {
       "version": 1
     },
@@ -156,12 +165,6 @@
       "version": 1
     },
     "f992c880-a295-4c71-87a9-4f6f6f75fed2": {
-      "version": 1
-    },
-    "83c67b21-14ce-4ac4-b9d5-308e9dd0905c": {
-      "version": 1
-    },
-    "cdabb68e-87eb-4775-bd03-693316f0b4db": {
       "version": 1
     }
   },
