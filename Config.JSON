@@ -2,7 +2,6 @@
   "Narayanadmin@gmail.com": [
     "Safari",
     "Cityluggage",
-    "Charms Novotel",
     "Charms 4th Floor",
     "6thsnack"
   ],
@@ -14,7 +13,6 @@
     "3rd Floor",
     "City Slipper",
     "1stfloorslipper",
-    "Charms Novotel",
     "Charms 4th Floor",
     "6thsnack"
   ],
@@ -24,7 +22,6 @@
   "Thanaysoreadmin@gmail.com": [
     "Safari",
     "Cityluggage",
-    "Charms Novotel",
     "Charms 4th Floor",
     "6thsnack"
   ],
@@ -34,7 +31,6 @@
   "backup_node_server": "https://simple-processing-server.onrender.com",
   "charms_admin": "Charmsadmin@gmail.com",
   "charms_shops": [
-    "Charms Novotel",
     "Charms 4th Floor"
   ],
   "devices": {
