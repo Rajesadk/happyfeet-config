@@ -25,7 +25,7 @@
     "Charms 4th Floor",
     "6thsnack"
   ],
-  "api_base_url": "https://happy-feet.onrender.com",
+  "api_base_url": "https://happy-feet-9fkp.onrender.com",
   "backup_api": "https://fetch-server-nkp5.onrender.com",
   "backup_go_server": "https://heavy-processing-server.onrender.com",
   "backup_node_server": "https://simple-processing-server.onrender.com",
@@ -182,13 +182,13 @@
       "version": 1
     }
   },
-  "go_server": "https://go-server-rkj6.onrender.com",
+  "go_server": "https://go-server-0moa.onrender.com",
   "luggage_permission": [
     "Safari",
     "Cityluggage"
   ],
   "main_admin": "Admin@gmail.com",
-  "node_server": "https://node-server-y0e2.onrender.com",
+  "node_server": "https://node-server-xjxq.onrender.com",
   "sellers": [
     "New",
     "Suraj"
